@@ -1,4 +1,4 @@
----
+--zerotier-cli join 9e1948db63f89181-
 title: ZeroTier Central API
 description: >
   Overview of the ZeroTier Central API
